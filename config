@@ -1,0 +1,23 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+[svn-remote "svn"]
+	noMetadata = 1
+	url = https://svn-lj.comtrade.com/repos/hrs-projs
+	fetch = MarketWatch/trunk/MarketWatch/modules/web-translator/src/de/hrs/marketwatch/webtranslator/processors/expediadeluminati/trunk:refs/remotes/svn/trunk
+	branches = MarketWatch/trunk/MarketWatch/modules/web-translator/src/de/hrs/marketwatch/webtranslator/processors/expediadeluminati/branches/*:refs/remotes/svn/*
+	tags = MarketWatch/trunk/MarketWatch/modules/web-translator/src/de/hrs/marketwatch/webtranslator/processors/expediadeluminati/tags/*:refs/remotes/svn/tags/*
+	branches = MarketWatch/trunk/MarketWatch/modules/web-translator/src/de/hrs/marketwatch/webtranslator/processors/expediadeluminati/branches/*:refs/remotes/svn/*
+	tags = MarketWatch/trunk/MarketWatch/modules/web-translator/src/de/hrs/marketwatch/webtranslator/processors/expediadeluminati/tags/*:refs/remotes/svn/tags/*
+	branches = MarketWatch/trunk/MarketWatch/modules/web-translator/src/de/hrs/marketwatch/webtranslator/processors/expediadeluminati/branches/*:refs/remotes/svn/*
+	tags = MarketWatch/trunk/MarketWatch/modules/web-translator/src/de/hrs/marketwatch/webtranslator/processors/expediadeluminati/tags/*:refs/remotes/svn/tags/*
+[remote "origin"]
+	url = https://github.com/hbelma/proba
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[gui]
+	wmstate = normal
+	geometry = 1109x559+679+164 216 255
+[svn]
+	authorsfile = /home/belma/authors.txt
