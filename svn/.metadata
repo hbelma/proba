@@ -1,0 +1,7 @@
+; This file is used internally by git-svn
+; You should not have to edit it
+[svn-remote "svn"]
+	reposRoot = https://svn-lj.comtrade.com/repos/hrs-projs
+	uuid = 50e8f172-8405-0410-b534-89858837b8b8
+	branches-maxRev = 18870
+	tags-maxRev = 18870
